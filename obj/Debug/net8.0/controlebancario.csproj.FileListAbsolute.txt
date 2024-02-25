@@ -1,0 +1,14 @@
+D:\Estudos\controlebancario\bin\Debug\net8.0\controlebancario.exe
+D:\Estudos\controlebancario\bin\Debug\net8.0\controlebancario.deps.json
+D:\Estudos\controlebancario\bin\Debug\net8.0\controlebancario.runtimeconfig.json
+D:\Estudos\controlebancario\bin\Debug\net8.0\controlebancario.dll
+D:\Estudos\controlebancario\bin\Debug\net8.0\controlebancario.pdb
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.AssemblyInfoInputs.cache
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.AssemblyInfo.cs
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.csproj.CoreCompileInputs.cache
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.dll
+D:\Estudos\controlebancario\obj\Debug\net8.0\refint\controlebancario.dll
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.pdb
+D:\Estudos\controlebancario\obj\Debug\net8.0\controlebancario.genruntimeconfig.cache
+D:\Estudos\controlebancario\obj\Debug\net8.0\ref\controlebancario.dll
